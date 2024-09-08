@@ -20,3 +20,6 @@ gulp-static-website-v7をご参照ください。<br>
 https://github.com/takumi0125/gulp-static-website-v7
 
 
+depends on
+
+nvm install v10.8.0
